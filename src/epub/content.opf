@@ -28,64 +28,74 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Michael Strogoff</dc:title>
 		<meta property="file-as" refines="#title">Michael Strogoff</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">The Courier of the Czar</dc:title>
+		<meta property="file-as" refines="#subtitle">Courier of the Czar, The</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Michael Strogoff: The Courier of the Czar</dc:title>
+		<meta property="file-as" refines="#fulltitle">Michael Strogoff: The Courier of the Czar</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Russia -- History -- Alexander II, 1855-1881 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Russia -- History -- Alexander II, 1855-1881</dc:subject>
 		<dc:subject id="subject-3">Heroes -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Tatars -- Fiction</dc:subject>
+		<dc:subject id="subject-4">Tatars fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="term" refines="#subject-2">sh85125800</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008105587</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
-		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-4">sh85132741</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Michael Strogoff, a courier of the Russian Czar, must race against time and the extreme elements across Siberia to deliver a crucial message to the Grand Duke at Irkutsk of the impeding Tatar invasion as well as possible treachery among their ranks.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Michael Strogoff&lt;/i&gt; breaks the mode for author &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, who is most known for his science fiction writings, as it is a true-to-life tale of the titular character’s journey across the lands of Siberia to deliver an important message for the brother of the Russian Czar. Like other works from Verne, many colorful characters were encountered along the way, and together they build a vivid depiction of the harsh life in Russo-Siberia as well as the resilient spirit of its inhabitants. The attention of details and the accuracy of the depiction of both the physical and geographical description of contemporary Siberia was noted to be very accurate, though it was also noted that Verne took some liberties of historical events for dramatic effects. Critics contemporary to Verne agreed that &lt;i&gt;Michael Strogoff&lt;/i&gt; is a thrilling tale of the strength in men, of patriotism, and of the devotion from one human being to another.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1842</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/michaelstrogoff00verngoog</dc:source>
+		<meta property="se:production-notes">The transcription from Project Gutenberg are missing significant text from the page scans; sometimes several paragraphs in a chapter. Other more minor differences exists. The producers of this ebook has restore the text to reflect the page scans. Along with usual modernization of spelling, most spelling of Russian and Siberian locations have been updated when they could be identified, and left as they were if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Michael_Strogoff</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_michael-strogoff_w-h-g-kingston</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">W.H.G. Kingston</dc:contributor>
 		<meta property="file-as" refines="#translator">Kingston, W.H.G.</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#translator">William Henry Giles Kingston</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/W.H.G._Kingston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50048535</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Vasily Surikov</dc:contributor>
+		<meta property="file-as" refines="#artist">Surikov, Vasily</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Vasily Ivanovich Surikov</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vasily_Surikov</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80122702</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judy Boss</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Boss, Judy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/thewchan</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
