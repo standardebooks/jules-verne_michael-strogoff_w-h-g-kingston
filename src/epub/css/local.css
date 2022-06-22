@@ -3,34 +3,34 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 [epub|type~="z3998:verse"] p{
-    text-align: initial;
-    text-indent: 0;
+	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:verse"] p + p{
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:verse"] p > span{
-    display: block;
-    padding-left: 1em;
-    text-indent: -1em;
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:verse"] p > span + br{
-    display: none;
+	display: none;
 }
 
 p span.i1{
-    padding-left: 2em;
-    text-indent: -1em;
+	padding-left: 2em;
+	text-indent: -1em;
 }
 
 p span.i2{
-    padding-left: 3em;
-    text-indent: -1em;
+	padding-left: 3em;
+	text-indent: -1em;
 }
 
 body [xml|lang]{
-    font-style: italic;
+	font-style: italic;
 }
