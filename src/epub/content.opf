@@ -38,7 +38,7 @@
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- History -- Alexander II, 1855-1881</dc:subject>
 		<dc:subject id="subject-3">Heroes -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Tatars fiction</dc:subject>
+		<dc:subject id="subject-4">Tartars fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -48,7 +48,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85132741</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Michael Strogoff, a courier of the Russian Czar, must race against time and the extreme elements across Siberia to deliver a crucial message to the Grand Duke at Irkutsk of the impeding Tatar invasion as well as possible treachery among their ranks.</dc:description>
+		<dc:description id="description">Michael Strogoff, a courier of the Russian Czar, must race against time and the extreme elements across Siberia to deliver a crucial message to the Grand Duke at Irkutsk of the impeding Tartar invasion as well as possible treachery among their ranks.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Michael Strogoff&lt;/i&gt; breaks the mode for author &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, who is most known for his science fiction writings, as it is a true-to-life tale of the titular character’s journey across the lands of Siberia to deliver an important message for the brother of the Russian Czar. Like other works from Verne, many colorful characters were encountered along the way, and together they build a vivid depiction of the harsh life in Russo-Siberia as well as the resilient spirit of its inhabitants. The attention of details and the accuracy of the depiction of both the physical and geographical description of contemporary Siberia was noted to be very accurate, though it was also noted that Verne took some liberties of historical events for dramatic effects. Critics contemporary to Verne agreed that &lt;i&gt;Michael Strogoff&lt;/i&gt; is a thrilling tale of the strength in men, of patriotism, and of the devotion from one human being to another.&lt;/p&gt;
 		</meta>
