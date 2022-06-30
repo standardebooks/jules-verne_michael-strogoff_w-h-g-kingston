@@ -22,6 +22,6 @@ p span.i1{
 	text-indent: -1em;
 }
 
-body [xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
 }
