@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/michael-strogoff/w-h-g-kingston</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-30T00:33:40Z</dc:date>
+		<meta property="dcterms:modified">2022-06-30T00:33:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,16 +48,18 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85132741</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Michael Strogoff, a courier of the Russian Czar, must race against time and the extreme elements across Siberia to deliver a crucial message to the Grand Duke at Irkutsk of the impeding Tartar invasion as well as possible treachery among their ranks.</dc:description>
+		<dc:description id="description">A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Michael Strogoff&lt;/i&gt; breaks the mode for author &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, who is most known for his science fiction writings, as it is a true-to-life tale of the titular character’s journey across the lands of Siberia to deliver an important message for the brother of the Russian Czar. Like other works from Verne, many colorful characters were encountered along the way, and together they build a vivid depiction of the harsh life in Russo-Siberia as well as the resilient spirit of its inhabitants. The attention of details and the accuracy of the depiction of both the physical and geographical description of contemporary Siberia was noted to be very accurate, though it was also noted that Verne took some liberties of historical events for dramatic effects. Critics contemporary to Verne agreed that &lt;i&gt;Michael Strogoff&lt;/i&gt; is a thrilling tale of the strength in men, of patriotism, and of the devotion from one human being to another.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, is perhaps best known for his science fiction stories, and &lt;i&gt;Michael Strogoff&lt;/i&gt; breaks that mold. It’s a true-to-life tale of the titular character’s journey across Siberia to deliver an important message to the brother of the Russian Czar.&lt;/p&gt;
+			&lt;p&gt;Like other of Verne’s works, many colorful characters are encountered along the way, and together they create a vivid depiction of the harsh life in Russo-Siberia, as well as the resilient spirit of its inhabitants. The attention to detail and the accuracy of the depiction, both physical and geographical, of Siberia, was noted by contemporaries, though it’s also said that Verne took some dramatic license in recreating some of the historical events.&lt;/p&gt;
+			&lt;p&gt;Contemporary critics agreed that &lt;i&gt;Michael Strogoff&lt;/i&gt; is a thrilling tale of the strength of men, of patriotism, and of the devotion of one human being to another. Modern critics consider it to be one of Verne’s best novels.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1842</dc:source>
 		<dc:source>https://archive.org/details/michaelstrogoff00verngoog</dc:source>
-		<meta property="se:production-notes">The transcription from Project Gutenberg are missing significant text from the page scans; sometimes several paragraphs in a chapter. Other more minor differences exists. The producers of this ebook has restore the text to reflect the page scans. Along with usual modernization of spelling, most spelling of Russian and Siberian locations have been updated when they could be identified, and left as they were if not.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The transcription from Project Gutenberg is missing significant text from the page scans, sometimes several paragraphs in a chapter. Other more minor differences exists. The producers of this ebook has restore the text to reflect the page scans. Along with usual modernization of spelling, most spelling of Russian and Siberian locations have been updated when they could be identified, and left as they were if not.</meta>
+		<meta property="se:word-count">99491</meta>
+		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Michael_Strogoff</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_michael-strogoff_w-h-g-kingston</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -66,8 +68,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="translator">W.H.G. Kingston</dc:contributor>
-		<meta property="file-as" refines="#translator">Kingston, W.H.G.</meta>
+		<dc:contributor id="translator">W. H. G. Kingston</dc:contributor>
+		<meta property="file-as" refines="#translator">Kingston, W. H. G.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">William Henry Giles Kingston</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/W.H.G._Kingston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50048535</meta>
@@ -96,6 +98,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
