@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1842</dc:source>
 		<dc:source>https://archive.org/details/michaelstrogoff00verngoog</dc:source>
 		<meta property="se:production-notes">The transcription from Project Gutenberg is missing significant text from the page scans, sometimes several paragraphs in a chapter. Other more minor differences exists. The producers of this ebook has restore the text to reflect the page scans. Along with usual modernization of spelling, most spelling of Russian and Siberian locations have been updated when they could be identified, and left as they were if not.</meta>
-		<meta property="se:word-count">99501</meta>
+		<meta property="se:word-count">99064</meta>
 		<meta property="se:reading-ease.flesch">70.63</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Michael_Strogoff</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_michael-strogoff_w-h-g-kingston</meta>
