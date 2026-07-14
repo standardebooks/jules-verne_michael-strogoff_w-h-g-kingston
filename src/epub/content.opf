@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Michael Strogoff: The Courier of the Czar</dc:title>
 		<meta property="file-as" refines="#fulltitle">Michael Strogoff: The Courier of the Czar</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- History -- Alexander II, 1855-1881</dc:subject>
 		<dc:subject id="subject-3">Heroes -- Fiction</dc:subject>
