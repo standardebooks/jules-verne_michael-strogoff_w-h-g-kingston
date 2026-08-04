@@ -53,7 +53,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">14</meta>
-		<dc:abstract>A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.</dc:abstract>
+		<meta property="schema:abstract">A courier of the Russian Czar must race against time and the Siberian elements to deliver a crucial message of an impeding Tartar invasion and possible treachery.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; is perhaps best known for his science fiction stories, and &lt;i&gt;Michael Strogoff&lt;/i&gt; breaks that mold. It’s a true-to-life tale of the titular character’s journey across Siberia to deliver an important message to the brother of the Russian Czar.&lt;/p&gt;
 			&lt;p&gt;Like other of Verne’s works, Strogoff encounters many colorful characters along the way, and together they create a vivid depiction of the harsh life in Russo-Siberia, as well as the resilient spirit of its inhabitants. The attention to detail and the accuracy of both the physical and geographical depictions of Siberia was noted by contemporaries, though it’s also said that Verne took some dramatic license in recreating some of the historical events.&lt;/p&gt;
